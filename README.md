@@ -19,7 +19,8 @@ Desarrollaremos los contenidoes en una serie de ejercicios, en los cuales mostra
 ```
 
 **FRONT END**
-- Hrml
-- CSS
+- Html.
+- CSS.
+
 **BACK END**
 - PHP
