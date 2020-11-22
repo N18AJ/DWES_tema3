@@ -18,5 +18,5 @@
 Desarrollaremos los contenidoes en una serie de ejercicios, en los cuales mostraremos información con diferentes formatos, recorreremos arrays y estudiaremos los distintos campor de formularios para una cantilla tipo.
 ```
 
-| FRONT END | BACK END |
-| HTML y CSS | PHP |
+| FRONT END | | BACK END|
+| HTML y CSS | | PHP |
