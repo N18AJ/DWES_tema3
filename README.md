@@ -9,10 +9,11 @@
 ```
 Contenido
 | Tema 3 | - |
-| - | Acceso a bases de datos PHP |
-| - | MySQL |
-| - | Utilización de bases de datos MySQL en PHP |
-| - | Errores y manejo de exceptiones|
+| - | Elementos de lenguaje PHP |
+| - | Estructuras de control |
+| - | Funciones |
+| - | Tipos de datos compuestos |
+| - | Formularios web |
 
 Descripción: 
 Desarrollaremos los contenidoes en una serie de ejercicios, en los cuales mostraremos información con diferentes formatos, recorreremos arrays y estudiaremos los distintos campor de formularios para una cantilla tipo.
