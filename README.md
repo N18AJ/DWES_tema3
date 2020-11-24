@@ -25,3 +25,6 @@ Desarrollaremos los contenidoes en una serie de ejercicios, en los cuales mostra
 
 **BACK END**
 - PHP.
+
+## Licencia
+[MIT](https://choosealicense.com/licenses/mit/)
